@@ -1,0 +1,23 @@
+rank,player_name,country,role,performance_score
+1,MS Dhoni,India,WicketKeeper,0.6258
+2,Joe Root,England,Batsman,0.583
+3,Shakib Al Hasan,Bangladesh,AllRounder,0.58
+4,AB de Villiers,SouthAfrica,Batsman,0.5601
+5,Rohit Sharma,India,Batsman,0.5406
+6,Virat Kohli,India,Batsman,0.5277
+7,Kane Williamson,NewZealand,Batsman,0.485
+8,Steve Smith,Australia,Batsman,0.4781
+9,Ben Stokes,England,AllRounder,0.4647
+10,Quinton de Kock,SouthAfrica,WicketKeeper,0.4566
+11,David Warner,Australia,Batsman,0.4271
+12,Babar Azam,Pakistan,Batsman,0.4188
+13,Jos Buttler,England,WicketKeeper,0.4025
+14,Kieron Pollard,WestIndies,AllRounder,0.374
+15,Hardik Pandya,India,AllRounder,0.3417
+16,Rashid Khan,Afghanistan,AllRounder,0.3276
+17,Mohammad Nabi,Afghanistan,AllRounder,0.2951
+18,Mitchel Starc,Australia,Bowler,0.2489
+19,Pat Cummins,Australia,Bowler,0.2431
+20,Kagiso Rabada,SouthAfrica,Bowler,0.1531
+21,Trent Boult,NewZealand,Bowler,0.1394
+22,Jasprit Bumrah,India,Bowler,0.1049

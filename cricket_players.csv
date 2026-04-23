@@ -1,0 +1,23 @@
+player_name,country,matches,innings,runs,average,strike_rate,centuries,half_centuries,highest_score,wickets,economy,bowling_avg,catches,role,debut_year
+Virat Kohli,India,113,111,8848,54.97,93.17,43,65,183,4,8.2,45.0,65,Batsman,2010
+Rohit Sharma,India,151,147,10709,48.68,89.25,30,59,264,8,7.9,52.0,73,Batsman,2007
+Joe Root,England,157,152,11695,51.97,87.44,34,62,228,6,4.8,60.0,89,Batsman,2013
+Steve Smith,Australia,144,140,9145,46.44,87.82,31,39,164,3,5.0,55.0,60,Batsman,2010
+Kane Williamson,NewZealand,162,155,8967,47.72,80.26,26,55,148,37,5.1,40.0,55,Batsman,2010
+David Warner,Australia,145,145,6932,45.31,95.64,18,55,179,1,8.5,70.0,50,Batsman,2009
+Babar Azam,Pakistan,107,105,5148,57.20,88.29,19,39,122,0,0.0,0.0,30,Batsman,2015
+AB de Villiers,SouthAfrica,228,218,9577,53.50,101.19,25,53,176,7,6.5,48.0,71,Batsman,2005
+MS Dhoni,India,350,297,10773,50.57,87.56,10,73,183,1,8.0,55.0,321,WicketKeeper,2004
+Quinton de Kock,SouthAfrica,174,162,6185,45.47,97.23,15,43,178,0,0.0,0.0,187,WicketKeeper,2012
+Jos Buttler,England,174,158,4862,36.27,118.34,9,30,162,0,0.0,0.0,133,WicketKeeper,2012
+Jasprit Bumrah,India,82,20,91,8.27,73.98,0,0,25,149,4.63,24.31,23,Bowler,2016
+Mitchel Starc,Australia,109,47,399,16.62,88.47,0,1,52,240,5.12,26.56,28,Bowler,2012
+Pat Cummins,Australia,109,50,584,19.46,80.44,0,1,36,229,5.27,28.13,26,Bowler,2011
+Kagiso Rabada,SouthAfrica,93,35,295,11.35,72.13,0,0,31,197,4.85,27.63,20,Bowler,2015
+Trent Boult,NewZealand,104,41,258,9.17,77.48,0,0,34,178,5.17,29.08,19,Bowler,2011
+Rashid Khan,Afghanistan,82,37,512,19.69,142.63,0,2,48,159,4.19,18.85,25,AllRounder,2015
+Ben Stokes,England,159,144,4823,38.88,95.66,13,35,182,174,5.98,32.71,78,AllRounder,2011
+Shakib Al Hasan,Bangladesh,248,225,7439,37.76,82.37,11,54,134,299,4.84,29.73,72,AllRounder,2006
+Hardik Pandya,India,113,87,2535,32.89,119.56,0,14,91,71,8.81,41.39,32,AllRounder,2016
+Kieron Pollard,WestIndies,123,104,3412,32.49,126.31,0,18,119,59,7.05,34.13,48,AllRounder,2007
+Mohammad Nabi,Afghanistan,148,118,2723,27.50,84.60,1,12,116,143,4.36,28.24,39,AllRounder,2009
