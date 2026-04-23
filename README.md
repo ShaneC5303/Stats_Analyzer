@@ -1,10 +1,10 @@
-# 🏏 Cricket Player Performance Analysis
+#  Cricket Player Performance Analysis
 **Course:** 23DEA3202 – Data Exploration and Preparation  
 **Project:** Abstract Cricket – Test Player Performance Analysis
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 cricket_project/
 ├── data/
@@ -18,7 +18,7 @@ cricket_project/
 
 ---
 
-## ⚡ Quick Start (VS Code)
+##  Quick Start (VS Code)
 
 ### Step 1 – Install dependencies
 Open the **VS Code Terminal** (`Ctrl + `` ` ``) and run:
@@ -37,7 +37,7 @@ python src/analysis.py
 
 ---
 
-## 📊 What the Script Does
+##  What the Script Does
 
 | Step | Description |
 |------|-------------|
@@ -51,7 +51,7 @@ python src/analysis.py
 
 ---
 
-## 🧮 Performance Score Formula
+##  Performance Score Formula
 ```
 score = runs(30%) + average(25%) + strike_rate(15%) + wickets(20%) + catches(10%)
 ```
@@ -59,7 +59,7 @@ Each metric is min-max normalised to [0, 1] before weighting.
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 - `pandas` – data manipulation  
 - `numpy` – numerical operations  
 - `matplotlib` – plotting  
