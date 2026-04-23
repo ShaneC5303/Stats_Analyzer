@@ -1,4 +1,4 @@
-#  Cricket Player Performance Analysis
+#  Stats Analyzer
 **Course:** 23DEA3202 – Data Exploration and Preparation  
 **Project:** Abstract Cricket – Test Player Performance Analysis
 
